@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OscarMederos
-- 👀 I’m interested in python, ruby, go etc.
+- 👀 I’m interested in python, ruby, go
 - 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on django, frameworks, libraries
+- 💞️ I’m looking to collaborate on python and go libraries and utilities
 - 📫 How to reach me osmed086@gmail.com
 
 <!---
